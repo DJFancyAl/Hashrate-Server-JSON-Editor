@@ -1,0 +1,54 @@
+{
+    "name": "Hashrate Servers #152",
+    "symbol": "HASH",
+    "description": "234 Servers Mining Crypto",
+    "image": "151.png",
+    "external_url": "https://hashrateservers.com",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Vent",
+            "value": "Vent"
+        },
+        {
+            "trait_type": "Wall",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "Olive"
+        },
+        {
+            "trait_type": "Server",
+            "value": "Diamond"
+        },
+        {
+            "trait_type": "Desk",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Chair",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Garbage Can",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Bookshelf",
+            "value": "Maroon"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "151.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

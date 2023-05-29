@@ -1,0 +1,65 @@
+{
+    "name": "Hashrate Servers #153",
+    "symbol": "HASH",
+    "description": "1000 Servers Mining Crypto",
+    "seller_fee_basis_points": 1000,
+    "image": "152.png",
+    "external_url": "https://hashrateservers.com",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Vent",
+            "value": "Vent"
+        },
+        {
+            "trait_type": "Wall",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Server",
+            "value": "Diamond"
+        },
+        {
+            "trait_type": "Desk",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Chair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Garbage Can",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Bookshelf",
+            "value": "Brown"
+        }
+    ],
+    "collection": {
+        "name": "Hashrate Servers",
+        "family": "Hashrate Servers"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "152.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "FwoNUDdrKh24vjM9F31gb8R6yC6MuxAPDccDfMEBpUwV",
+                "share": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+1000 changed to 234
+delete the seller fees line
+delete collection part
+delete creator part
