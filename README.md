@@ -8,4 +8,5 @@ This is a Python script to convert your JSON files. It works by reformatting all
 
 3. Press enter and watch the magic.
 
-- The script will create an "old" backup version of each file in case something goes wrong.
+<br />
+**The script will create an "old" backup version of each file in case something goes wrong.**
