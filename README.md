@@ -1,0 +1,1 @@
+# Hashrate-Server-JSON-Editor
